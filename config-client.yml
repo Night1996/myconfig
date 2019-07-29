@@ -7,7 +7,6 @@ spring:
   profiles: dev
   application:
     name: config-client
-	
 ---
 eureka:
   client:
