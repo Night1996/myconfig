@@ -15,9 +15,11 @@ spring:
   application:
     name: myconfig-test 
 	
+
 ---
 spring:
-  profiles:
-  application:test
-    name: myconfig-test2  
+  profiles: test
+  application:
+    name: myconfig2
+
 	
