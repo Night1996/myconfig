@@ -20,6 +20,6 @@ spring:
 spring:
   profiles: test
   application:
-    name: myconfig2
+    name: myconfig1
 
 	
